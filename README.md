@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I am Aditi 👋
+### Hi there, I am Meet 👋
 
 - 🔭 I’m currently a Data Science Graduate Student at Indiana Univeristy Bloomington.
 - 🌱 I love ML and Statistics.
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 
 Some Recent Exploratory Analysis Projects:
-- <a href="https://www.aditimulye.com/_files/ugd/0ee56c_38a52a7bdc7e4e6d9c9ffe464b2ad3ac.pdf">EDA-Life Expectancy and GDP</a>
-- <a href="https://www.kaggle.com/code/aditimulye/mental-health-at-workplace/notebook" target="_blank">Mental Health at Workplace</a>
-- <a href="https://www.aditimulye.com/_files/ugd/0ee56c_0df2360735454d4f940102a0c02b6889.pdf">EDA-Suicide Rates Analysis</a>
+- <a href="https://www.">EDA-Life Expectancy and GDP</a>
+- <a href="https://www.tebook" target="_blank">Mental Health at Workplace</a>
+- <a href="https://www.ab6889.pdf">EDA-Suicide Rates Analysis</a>
