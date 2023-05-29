@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MeetPalod/MeetPalod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I am Aditi 👋
+
+- 🔭 I’m currently a Data Science Graduate Student at Indiana Univeristy Bloomington.
+- 🌱 I love ML and Statistics.
+- 👯 I’m looking to collaborate on Data Science/Data Engineering projects.
+- 💬 Ask me about Anything.
+- <a href="https://www.linkedin.com/in/meetpalod/" target="_blank">Meet Palod's Resume</a>
+
+
+#### Find me around the web 🌎:
+- 🖥 Everything about me on my <a href="https://www.linkedin.com/in/meetpalod/">website</a> 
+- 💼 Sharing updates on <a href="https://www.linkedin.com/in/meetpalod/">LinkedIn</a> 
+- 📫 How to reach me: mpalod@iu.edu
+
+
+Some Recent Exploratory Analysis Projects:
+- <a href="https://www.aditimulye.com/_files/ugd/0ee56c_38a52a7bdc7e4e6d9c9ffe464b2ad3ac.pdf">EDA-Life Expectancy and GDP</a>
+- <a href="https://www.kaggle.com/code/aditimulye/mental-health-at-workplace/notebook" target="_blank">Mental Health at Workplace</a>
+- <a href="https://www.aditimulye.com/_files/ugd/0ee56c_0df2360735454d4f940102a0c02b6889.pdf">EDA-Suicide Rates Analysis</a>
