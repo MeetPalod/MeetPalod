@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### Hi there, I am Meet 👋
 
 - 🔭 I’m currently a Data Science Graduate Student at Indiana Univeristy Bloomington.
-- 🌱 I am passionate about working with data love ML and Statistics.
-- 👯 I’m looking for job opportunites in Data Science/Data Engineering.
-- 💬 Ask me about Anything.
+- 🌱 I am passionate about working with data and I love ML and Statistics.
+- 👯 I’m looking for job opportunites in Data Science/Data Engineering roles where I can leverage my skills to drive business impact.
+- 💬 Ask me about the projects I have worked on.
 - <a href="https://www.linkedin.com/in/meetpalod/" target="_blank">Meet Palod's Resume</a>
 
 
