@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 #### Find me around the web 🌎:
 - 🖥 Everything about me on my <a href="https://www.linkedin.com/in/meetpalod/">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/meetpalod/">LinkedIn</a> 
-- 📫 How to reach me: <a href="mailto:mpalod@iu.edu">mpalod@iu.edu</a>
-- <a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- 📫 How to reach me: [mpalod@iu.edu](mailto:mpalod@iu.edu)
 
 
 Some Recent Exploratory Analysis Projects:
